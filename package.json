@@ -8,7 +8,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.7",
     "naive-ui": "^2.30.8",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4",
     "vue": "^3.2.25"
   },
   "devDependencies": {
