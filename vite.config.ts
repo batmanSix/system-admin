@@ -11,5 +11,14 @@ export default defineConfig({
       'comps': resolve('./src/components')
     },
     extensions: ['.js','.ts','.tsx','.jsx',]
-  }
+  },
+  build: { 
+    minify: "terser", 
+    terserOptions: { 
+      compress: { 
+        drop_console: true, 
+        drop_debugger: true 
+      } 
+    } 
+  },
 })
