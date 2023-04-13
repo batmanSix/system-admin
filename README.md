@@ -1,9 +1,6 @@
 <div align="center">
-	<img src="https://i.loli.net/2021/11/24/x5lLfuSnEawBAgi.png"/>
 	<h1>Soybean Admin</h1>
 </div>
-
-[![license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
 ## 简介
 
@@ -17,20 +14,6 @@ Soybean Admin  是一个基于 Vue3、Vite、TypeScript、Naive UI 的免费中�
 - **代码规范**：丰富的规范插件及极高的代码规范
 - **权限路由**：简易的路由配置、基于mock的动态路由能快速实现后端动态路由
 - **请求函数**：基于axios的完善的请求函数封装
-
-## 预览
-
-- [soybean-admin](https://soybean.pro/)
-
-## 文档
-
-- [项目文档](https://docs.soybean.pro)
-
-## 代码仓库
-
-- [github](https://github.com/honghuangdc/soybean-admin)
-
-- [gitee](https://gitee.com/honghuangdc/soybean-admin)
 
 ## 特性细节
 
@@ -117,7 +100,7 @@ Soybean Admin  是一个基于 Vue3、Vite、TypeScript、Naive UI 的免费中�
 - 克隆代码
 
 ```bash
-git clone https://github.com/honghuangdc/soybean-admin.git
+
 ```
 
 - 安装依赖
@@ -138,11 +121,8 @@ pnpm dev
 pnpm build
 ```
 
-## 如何贡献
 
-非常欢迎您的加入！[提一个 Issue](https://github.com/honghuangdc/soybean-admin/issues/new) 或者提交一个 Pull Request。
-
-## Git 贡献提交规范
+## Git 提交规范
 
 项目已经内置angular提交规范，通过git cz 代替git commit 命令即可。
 
@@ -162,27 +142,4 @@ pnpm i -g commitizen
 | :-: | :-: | :-: | :-: | :-: |
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## 开源作者
 
-[@Soybean](https://github.com/honghuangdc)
-
-## 交流
-
-`Soybean Admin` 是完全开源免费的项目，在帮助开发者更方便地进行中大型管理系统开发，同时也提供 QQ 交流群使用问题欢迎在群内提问。
-
-- 微信交流群：
-  <div style="text-align:left">
-    <img src="https://s2.loli.net/2022/02/24/GhIKM5aRLykU1P2.jpg" style="width:200px" />
-  </div>
-
-- QQ 群 `711301266`
-
-  <div style="text-align:left">
-    <img src="https://i.loli.net/2021/11/24/1J6REWXiHomU2kM.jpg" style="width:200px" />
-  </div>
-
-- 本人微信号：honghuangdc，欢迎来技术交流，业务咨询。
-
-## License
-
-[MIT © Soybean-2021](./LICENSE)
