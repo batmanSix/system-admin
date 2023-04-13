@@ -1,3 +1,4 @@
+import setupAssets from './assets';
 import setupNaiveUI from './naive';
 
-export { setupNaiveUI };
+export { setupAssets, setupNaiveUI };
